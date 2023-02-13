@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l /bin > ls_cdw_content
+ls -l /bin > ls_cwd_content
