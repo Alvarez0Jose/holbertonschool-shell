@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R a+x /.
+chmod -R u=7,g=5,o=5 /.
