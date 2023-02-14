@@ -1,2 +1,2 @@
 #!/bin/bash
-ls ":" {'print $1":"$6'} /etc/passwd | sort
+ls ":" -u -d /etc/passwd | sort
