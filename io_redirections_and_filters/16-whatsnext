@@ -1,2 +1,2 @@
 #!/bin/bash
-Grep -t3 "root" /etc/passwdi
+Grep -t3 "*root" /etc/passwdi
