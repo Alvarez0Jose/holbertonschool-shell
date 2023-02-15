@@ -1,2 +1,2 @@
 #!/bin/bash
-find /$PATH -type d -exec echo dirs \
+find $PATH -type d -exec echo dirs
