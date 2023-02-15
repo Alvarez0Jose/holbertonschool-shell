@@ -1,2 +1,2 @@
 #!/bin/bash
-tree PATH=$PATH -d -L 1
+find PATH=$PATH -type d | wc -l
